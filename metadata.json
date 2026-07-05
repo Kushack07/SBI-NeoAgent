@@ -1,0 +1,6 @@
+{
+  "name": "SBI NeoAgent",
+  "description": "An autonomous AI-powered financial relationship manager and premium fintech assistant for SBI customers.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
